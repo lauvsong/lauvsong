@@ -38,6 +38,7 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://velog.io/@wisepine"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@wisepine"/></a>&nbsp
+  <a href="https://wisepine.notion.site/class-942ed8b97d054cbfa25d47f71324dfe1"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp
   <a href="https://www.facebook.com/lauvsong/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/lauvsong/"/></a>&nbsp
 </p>
 <br>
