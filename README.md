@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyesong%20Kim&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyesong%20Kim&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Backend%20Developer&descSize=20&descAlignY=57)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
