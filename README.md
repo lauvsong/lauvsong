@@ -25,8 +25,8 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wisepine&tag=Spring)](https://velog.io/@wisepine)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wisepine&tag=아키텍쳐)](https://velog.io/@wisepine)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wisepine&tag=p1)](https://velog.io/@wisepine)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wisepine&tag=p2)](https://velog.io/@wisepine)
   
 </div>
   
